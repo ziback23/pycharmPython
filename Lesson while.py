@@ -7,6 +7,6 @@ def func():
         a = a + 1
         print("A + 1 =", a)
     print("Сравнение закончили")
-    print("a больше b")
+    print("a больмпкше b")
 
 func()
